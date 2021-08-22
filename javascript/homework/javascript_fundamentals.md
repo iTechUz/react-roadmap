@@ -22,8 +22,10 @@
 
 <button onClick="javascript:window.open('http://www.facebook.com', '_blank');">facebook</button>
 
-
+```html
 <a href="http://www.google.com/" target="_top" style="text-decoration:none"><button id="back">Back</button></a>
+```
+[go](http://stackoverflow.com){:target="_blank"}.
 
 
 <button type="button" class="btn btn-default btn-social" onClick="window.open('http://www.facebook.com/','facebook')">
