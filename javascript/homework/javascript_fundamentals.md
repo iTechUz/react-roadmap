@@ -17,4 +17,15 @@
 
 <a type="button" href="http://www.facebook.com/" value="facebook" target="_blank" class="button">Demo</a>
 
-<input type="button" onClick="parent.location='http://www.facebook.com/'" value="facesasbook" formtarget="_blank">
+
+
+
+<button onClick="javascript:window.open('http://www.facebook.com', '_blank');">facebook</button>
+
+
+<a href="http://www.google.com/" target="_top" style="text-decoration:none"><button id="back">Back</button></a>
+
+
+<button type="button" class="btn btn-default btn-social" onClick="window.open('http://www.facebook.com/','facebook')">
+          <i class="fa fa-facebook" aria-hidden="true">dsdsasas</i>
+</button>
