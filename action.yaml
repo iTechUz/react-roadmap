@@ -1,0 +1,9 @@
+name: "iTech react-roadmap Action"
+description: "Print webPagetest.org results as commit comment"
+author: "Kodirov"
+runs:
+  using: "docker"
+  image: "Dockerfile"
+branding:
+  icon: "zap"
+  color: "gray-dark"
