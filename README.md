@@ -10,7 +10,7 @@ This repo if for who want to be a react developer
 
 <details>
 <summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Learn Javascript</a>    
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Javascript Fundamentals</a>    
 </summary>
 
 ### 🔰 Introduction
@@ -52,7 +52,6 @@ This repo if for who want to be a react developer
  - [The "new Function" syntax](https://javascript.info/new-function)
  - [Decorators and forwarding, call/apply](https://javascript.info/call-apply-decorators)
  - [Function binding](https://javascript.info/bind)
-
  - **[Homework](javascript/homework/functions.md)**
 
 
@@ -78,6 +77,13 @@ This repo if for who want to be a react developer
  - [Scheduling: setTimeout and setInterval](https://javascript.info/settimeout-setinterval)
  - [Arrow functions revisited](https://javascript.info/arrow-functions)
 
+</details>
+
+<details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;More deep Javascript </a>    
+</summary>
+
 
 ### 🔰 Class 
  - [Class basic syntax](https://javascript.info/class)
@@ -86,13 +92,16 @@ This repo if for who want to be a react developer
  - [Private and protected properties and methods](https://javascript.info/private-protected-properties-methods)
  - [Extending built-in classes](https://javascript.info/extend-natives)
 
+
 ### 🔰 Additional topics part two
  - [Error handling, "try...catch"](https://javascript.info/try-catch)
  - [Custom errors, extending Error](https://javascript.info/custom-errors)
  - [Modules, introduction](https://javascript.info/modules-intro)
  - [Export and Import](https://javascript.info/import-export)
  - [Dynamic imports](https://javascript.info/modules-dynamic-imports)
- - 
+ - [Mixins](https://javascript.info/mixins)
+
+
 ### 🔰 Promise async/await
  - [Introduction: callbacks](https://javascript.info/callbacks)
  - [Promise](https://javascript.info/promise-basics)
@@ -103,14 +112,42 @@ This repo if for who want to be a react developer
  - [Async iteration and generators](https://javascript.info/async-iterators-generators)
 
 
-### 🔰 Data types
+### 🔰 Network requests
+ - [Fetch](https://javascript.info/fetch)
+ - [FormData](https://javascript.info/formdata)
+ - [Fetch progress](https://javascript.info/fetch-progress)
+
+</details>
 
 
- - [Mixins](https://javascript.info/mixins)
- - 
 
-### 🔰 ES6
-Cheers!
-[Pascal](https://twitter.com/askpascalandy/)
+<details>
+
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Transforming into User Interface </a>    
+</summary>
+
+### 🔰 DOM
+ - [Browser environment, specs](https://javascript.info/browser-environment)
+ - [DOM tree](https://javascript.info/dom-nodes)
+ - [Walking the DOM](https://javascript.info/dom-navigation)
+ - [Searching: getElement*, querySelector*](https://javascript.info/searching-elements-dom)
+ - [Node properties: type, tag and contents](https://javascript.info/basic-dom-node-properties)
+ - [Attributes and properties  ](https://javascript.info/dom-attributes-and-properties)
+ - [Modifying the document](https://javascript.info/modifying-document)
+ - [Styles and classes](https://javascript.info/styles-and-classes)
+ - [Element size and scrolling](https://javascript.info/size-and-scroll)
+ - [https://javascript.info/size-and-scroll-window](Window sizes and scrolling)
+ - [Coordinates](https://javascript.info/coordinates)
+
+### 🔰 Introduction to Events
+ - [Introduction to browser events](https://javascript.info/introduction-browser-events)
+ - [Bubbling and capturing](https://javascript.info/bubbling-and-capturing)
+ - [Event delegation](https://javascript.info/event-delegation)
+ - [Browser default actions](https://javascript.info/default-browser-action)
+ - [Dispatching custom events](https://javascript.info/dispatch-events)
+
+### 🔰 Introduction to Events
+
 
 </details>
