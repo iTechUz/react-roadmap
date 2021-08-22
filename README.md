@@ -37,6 +37,7 @@ This repo if for who want to be a react developer
  - [Functions](https://javascript.info/function-basics)
  - [Function expressions](https://javascript.info/function-expressions)
  - [Arrow functions, the basics](https://javascript.info/arrow-functions-basics)
+ - **[Homework](javascript/homework/functions.md)**
 
 ### 🔰 Data types
 
@@ -45,4 +46,3 @@ Cheers!
 [Pascal](https://twitter.com/askpascalandy/)
 
 </details>
-
