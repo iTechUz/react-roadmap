@@ -3,6 +3,10 @@
  - sign in [freecodecamp.org](https://www.freecodecamp.org/learn/)
 
 
+<details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Show all details</a>    
+</summary>
 
 ### 🔰 Introduction
  - [An Introduction to JavaScript](https://javascript.info/intro)
@@ -31,3 +35,8 @@
 ### 🔰 Data types
 
 ### 🔰 ES6
+Cheers!
+[Pascal](https://twitter.com/askpascalandy/)
+
+</details>
+

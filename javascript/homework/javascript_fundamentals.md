@@ -10,3 +10,8 @@
 - [Understanding Uninitialized Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-uninitialized-variables)
 - [Understanding Case Sensitivity in Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-case-sensitivity-in-variables)
 - [Add Two Numbers with JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/add-two-numbers-with-javascript)
+
+
+<a href="javacsript.com" target="blank"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Learn Javascript</a>    
+
+
