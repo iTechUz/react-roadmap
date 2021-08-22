@@ -1,5 +1,7 @@
 ## Initial requirements
  - install vscode [Link](https://code.visualstudio.com/)
+ - sign in [freecodecamp.org](https://www.freecodecamp.org/learn/)
+
 
 
 ### 🔰 Introduction
@@ -13,7 +15,7 @@
  - [Interaction: alert, prompt, confirm](https://javascript.info/alert-prompt-confirm)
  - [Basic operators, maths](https://javascript.info/operators)
  - [Comparisons](https://javascript.info/comparison)
-  
+ - **[Homework](../javascript/homework/javascript_fundamentals.md)**
 ### 🔰 Operators
  - [Conditional branching: if, '?'](https://javascript.info/ifelse)
  - [Logical operators](https://javascript.info/logical-operators)
