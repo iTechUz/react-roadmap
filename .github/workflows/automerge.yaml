@@ -22,6 +22,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: automerge
-        uses: "iTechUz/react-roadmap@v0.14.2"
+        uses: "iTechUz/react-roadmap@main"
         env:
           GITHUB_TOKEN: "${{ secrets.TOKEN }}"
