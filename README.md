@@ -31,6 +31,7 @@ This repo if for who want to be a react developer
  - [Nullish coalescing operator '??'](https://javascript.info/nullish-coalescing-operator)
  - [Loops: while and for](https://javascript.info/while-for)
  - [The "switch" statement](https://javascript.info/switch)
+  - **[Homework](javascript/homework/operators.md)**
 
 ### 🔰 Functions
  - [Functions](https://javascript.info/function-basics)
