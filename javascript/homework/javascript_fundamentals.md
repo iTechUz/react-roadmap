@@ -16,3 +16,5 @@
 
 
 <a type="button" href="http://www.facebook.com/" value="facebook" target="_blank" class="button">Demo</a>
+
+<input type="button" onClick="parent.location='http://www.facebook.com/'" value="facesasbook" formtarget="_blank">
