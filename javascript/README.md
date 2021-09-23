@@ -37,6 +37,6 @@
 ### 🔰 ES6
 Cheers!
 [Pascal](https://twitter.com/askpascalandy/)
-
+[30-Days-Of-JavaScript](https://github.com/qodirovshohijahon/30-Days-Of-JavaScript)
 </details>
 
