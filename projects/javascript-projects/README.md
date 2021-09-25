@@ -1,0 +1,1 @@
+[Learn JavaScript Form Validation – Build a JS Project for Beginners](https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/))
