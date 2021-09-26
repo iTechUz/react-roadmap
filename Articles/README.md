@@ -1,0 +1,1 @@
+[MVC architecture in web applications](https://afteracademy.com/blog/mvc-architecture-in-web-applications)
